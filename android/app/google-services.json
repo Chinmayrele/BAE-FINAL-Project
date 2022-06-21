@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "662641644616",
+    "project_id": "bae-dating-app-1f417",
+    "storage_bucket": "bae-dating-app-1f417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662641644616:android:b676e8145ef8482c47747d",
+        "android_client_info": {
+          "package_name": "com.gauthamraj.bae_dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662641644616-j3eo0fc3mm6e3nfq803jlr37hbdegnhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gauthamraj.bae_dating_app",
+            "certificate_hash": "28b6dc60069ecc35a5090c15b7dc22f8e69bc90e"
+          }
+        },
+        {
+          "client_id": "662641644616-i65n4mh67v0qf24cbbmltvnvvdsmqb9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSBhgr0WOEJJpBowAI24L-kxlbZDUaDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662641644616-i65n4mh67v0qf24cbbmltvnvvdsmqb9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
